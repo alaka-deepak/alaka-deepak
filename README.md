@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alaka-deepak
-- 👀 I’m interested in Data science and Analytics
-- 🌱 I’m currently learning Data science
+- 👀 I’m interested in Data science
+- 🌱 I’m currently working in NLP (language technology),learn data science
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
