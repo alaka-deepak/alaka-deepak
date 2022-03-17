@@ -1,0 +1,9 @@
+import polyglot
+from polyglot.detect import Detector
+from polyglot.text import Text, Word
+from polyglot.mapping import Embedding
+from polyglot.transliteration import Transliterator
+
+for w in tok_word:
+    w=Word(w,language="en")
+    print(w,w.morphemes)
