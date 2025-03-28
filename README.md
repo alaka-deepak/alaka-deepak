@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @alaka krishnan
 - 👀 I’m interested in Data science/Machine Learning/Deep Learning/AI
 - 🌱 I’m currently working in AI related applications, NLP (language technology) Analysing data text and numbers for modelling.
-- 💞️ I’m looking to collaborate on AI/Computer Vision/Text Analysis etc.
+- I was working for the health domain, retail and e-commerse.
+- 💞️ I’m looking to collaborate on AI/Machine learning/deep learning/Computer Vision/Text Analysis etc.
 - 📫 How to reach me alakakrishnanin@gmail.com
 
 <!---
